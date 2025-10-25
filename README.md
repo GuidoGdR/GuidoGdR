@@ -27,7 +27,7 @@ Aquí están algunas de las tecnologías que uso habitualmente:
 
 ### 🌐 Conéctate Conmigo
 [![LinkedIn](https://github.com/GuidoGdR/GuidoGdR/blob/main/logos/LinkedIn-0077B5.svg)](https://www.linkedin.com/in/guido-do-rego)
-[![Email](https://raw.githubusercontent.com/GuidoGdR/GuidoGdR/refs/heads/main/logos/Gmail-D14836.svg)](mailto:guidodorego@gmail.com)
+[![Email](https://github.com/GuidoGdR/GuidoGdR/blob/main/logos/Gmail-D14836.svg)](mailto:guidodorego@gmail.com)
 <!--
 https://raw.githubusercontent.com/GuidoGdR/GuidoGdR/refs/heads/main/logos/Gmail-D14836.svg
 ---
