@@ -7,8 +7,7 @@ Me encanta resolver problemas nuevos, desde scripts pequeños hasta aplicaciones
 
 ### 💡 Sobre Mí
 * **Tecnologías Favoritas:** Python, Go, Docker y AWS.
-* **Intereses:** [Interés 1, ej: Desarrollo de kernel para Android], [Interés 2, ej: Código abierto], [Interés 3].
-* **Objetivo:** Contribuir a proyectos de código abierto y compartir mis conocimientos.
+* **Objetivo:** Contribuir a proyectos y compartir mis conocimientos.
 
 ---
 
@@ -19,7 +18,7 @@ Aquí están algunas de las tecnologías que uso habitualmente:
 | :--- | :--- |
 | **Lenguajes** | `[Python]` `[Go]` `[JavaScript]` |
 | **Frontend** | `[React]` `[HTML/CSS]` `[Jquery]` `[Bootstrap]` |
-| **Backend** | `[Django]` `[Go Mux]` `[Fast-API]` |
+| **Backend** | `[Django]` `[Go]` `[Fast-API]` |
 | **Bases de Datos** | `[PostgreSQL]` `[Redis]`  `[DynamoDB]` `[MySQL]` |
 | **DevOps & Cloud**| `[Docker]` `[Git]` `[AWS]` `[Jenkins]` `[GitLab CI/CD]` |
 
